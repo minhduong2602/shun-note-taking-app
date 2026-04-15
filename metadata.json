@@ -1,0 +1,6 @@
+{
+  "name": "StudioNote",
+  "description": "A spatial note-taking app for graphic designers with Google Drive sync, infinite canvas sketching, and version history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
